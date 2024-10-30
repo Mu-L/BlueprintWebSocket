@@ -20,6 +20,7 @@ You can also use the raw functions to have the same access as if you were coding
 You can easily automatically reconnect to your server when a network error happens with the helper nodes:
 
 ![Blueprint Reconnect](https://github.com/Pandoa/BlueprintWebSocket/blob/master/Images/AutoReconnect.png?raw=true)
+
 ## C++
 
 ### Adding the Module
